@@ -1,0 +1,123 @@
+#cardid{
+    width: 450px;
+    background-color: rgb(47, 46, 46);
+    color: white;
+    font-weight: bold;
+    border-radius: 9px;
+    height: 400px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#home{
+    margin-top: 0%;
+}
+
+#tspan{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+#tpbtn{
+    margin-left: 10px;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+#topbr{
+    background-color: black;
+    border-bottom: 1px solid rgb(36, 32, 32);
+    height: 70px;
+    position: fixed;
+    width: 100%;
+    float: right;
+}
+
+#s1{color: gray;}
+
+#t1{
+    margin-left:200px;
+    margin-top: 50px;
+    font-size: 30px;
+    margin-bottom: 0%;
+    font-weight: bold;
+    color: aquamarine;
+}
+
+#hbt1{
+    background-color: grey;
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+#hobtn{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+#t3,#t4{
+    font-size: 25px;
+    margin-left:300px;
+    font-weight: bold;
+
+}
+
+#t2{
+    margin-left:300px;
+     font-size: 70px;
+    font-weight: bold;
+    margin-top: 0%;
+}
+
+#homecontainer{
+    /* border: 1px solid white; */
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 100px;
+}
+
+#rightcont{
+    margin-left: 25%;
+}
+
+ #hline{
+     font-size: 30px;
+     margin-left: 30px;
+ }
+
+#skill{
+    background-color: black;
+    color: white;
+}
+
+#nbar{
+    background-color: black;
+}
+
+#cardcontainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#imgid{
+    width: 350px;
+    height: 210px;
+    margin-left: 50px;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+
+#ctittle{
+    font-weight: bold;
+    font-size: large;
+    padding-left: 3px;
+}
+
+#ctext{
+    font-weight: lighter;
+    margin-left: 8px;
+    font-size: small;
+}
